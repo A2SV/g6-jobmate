@@ -39,6 +39,31 @@ All in a **chat-first experience** that works in English and Amharic.
 - **Skillset Boost** – AI-generated course suggestions.  
 
 ---
+## 📱 Application Screenshots
+
+### 🔐 Authentication Flow (Mobile App)
+
+| Welcome Screen | Sign Up | Login | Dashboard |
+| -------------- | -------------- | -------------- | --------- |
+| ![Welcome](docs/screenshots/welcome-screen.png) | ![Sign Up](docs/screenshots/sign-up.png) | ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+
+### 📄 CV Management Features (Mobile App)
+
+| CV Upload Interface | CV Analysis Results |
+| ------------------- | ------------------- |
+| ![CV Upload](docs/screenshots/cv-upload.png) | ![CV Analysis](docs/screenshots/cv-analysis.png) |
+
+### 🎤 Interview Preparation Suite (Mobile App)
+
+| Free-form Interview | Free-form Interview Chat | Structured Interview |
+| ------------------- | -------------- | -------------------- | 
+| ![Free-form Interview](docs/screenshots/freeform-interview.png) | ![Free-form Interview Chat](docs/screenshots/freeform-interview-chat.png) | ![Structured Interview](docs/screenshots/structured-interview.png) |
+
+### 🔍 Job Search & AI Features (Mobile App)
+
+| Job Search Interface |
+| ------------ |
+| ![Job Search](docs/screenshots/job-search.png) |
 
 ## ⚙️ Tech Stack
 
